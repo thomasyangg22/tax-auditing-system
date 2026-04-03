@@ -7,17 +7,5 @@
 Tax Auditing Database System
 
 ## Project Description
-The Tax Auditing Database System is a structured digital platform designed 
-to manage, monitor, and evaluate tax-related records for individuals and 
-organizations. The system maintains a centralized database of taxpayer 
-profiles, including personal identification information, declared income, 
-applicable tax brackets, filed returns, and payment histories. It provides 
-auditing capabilities that automatically cross-reference declared financial 
-data against computed tax liabilities, identifying inconsistencies, 
-underpayments, or missing submissions that may indicate non-compliance. 
-Authorized users such as tax auditors and financial officers can query 
-records, generate detailed audit reports, and track the status of ongoing 
-investigations through a structured and secure interface. The system also 
-maintains a comprehensive audit log that records all data modifications and 
-user interactions, ensuring full accountability and data integrity throughout 
-the auditing process.
+**System Design & Implementation:**
+For this project, I will be building a Tax Auditing Database System using basic Java concepts that we have covered in class. I plan to design the system around a few core classes such as `Taxpayer`, `TaxRecord`, and `AuditLog` to organize and represent the data in a clean and structured way. Instead of an actual database, I will be using ArrayLists to store and manage the taxpayer records, which will allow me to add, search, update, and delete entries throughout the program. The user will interact with the system through a simple console-based menu using Scanner, where they can manage records and run basic audit checks that compare a taxpayer's declared income against their expected tax liability. I will apply core principles like encapsulation and inheritance to keep the code clean, organized, and easy to follow.
