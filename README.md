@@ -1,8 +1,5 @@
 # Tax Auditing Database System
 
-## Project Title
-Tax Auditing Database System
-
 ## Project Members
 - Thomas Yang
 - Kyan Tan
@@ -12,7 +9,7 @@ This project is a Tax Auditing Database System built in Java. The purpose of the
 
 The system uses classes such as `Taxpayer`, `TaxRecord`, and `AuditLog` to organize the information. Instead of using a real database, the program stores the records using `ArrayList`s. The project also uses object oriented programming concepts to keep the program clean, organized, and easier to understand.
 
-## YouTube Video Link for Presentation
+## YouTube Video Link
 Paste your YouTube presentation link here
 
 ## UML Diagram
