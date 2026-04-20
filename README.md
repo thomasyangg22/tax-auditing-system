@@ -19,7 +19,7 @@ Paste your YouTube presentation link here
 
 ### How to Run the Program
 1. Download the Java files from this GitHub repository.
-2. Open the files in a Java IDE such as IntelliJ IDEA, Eclipse, or VS Code.
+2. Open the files in a Java such as Eclipse or VS Code.
 3. Run the `TaxAuditSystem.java` file.
 4. Follow the menu options shown in the console.
 
