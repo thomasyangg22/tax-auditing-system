@@ -7,7 +7,7 @@
 ## Project Description
 This project is a Tax Auditing Database System built in Java. The purpose of the program is to help users manage taxpayer records and perform audit checks through a menu driven system.
 
-The system uses classes such as `Taxpayer`, `TaxRecord`, and `AuditLog` to organize the information. Instead of using a real database, the program stores the records using `ArrayList`s. The project also uses object oriented programming concepts to keep the program clean, organized, and easier to understand.
+The system uses classes such as `Taxpayer`, `TaxRecord`, and `AuditLog` to organize the information. Instead of using a real database, the program stores the records using `ArrayList's`. The project also uses object oriented programming concepts to keep the program clean, organized, and easier to understand.
 
 ## YouTube Video Link
 Paste your YouTube presentation link here
