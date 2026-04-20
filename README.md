@@ -35,30 +35,31 @@ java TaxAuditSystem
 - View tax records for a taxpayer
 - Run an audit on a taxpayer
 - View all audit logs
-- Screenshots of Program Execution with Explanation
 
-1. Main Menu
+## Screenshots of Program Execution with Explanation
+
+### 1. Main Menu
 This screenshot shows the welcome screen and the main menu of the program. The user can choose from different options to manage taxpayer records and perform audit related tasks.
 
-3. Add Taxpayer
+### 2. Add Taxpayer
 This screenshot shows the user entering a new taxpayer's information, including the taxpayer ID, name, address, and phone number. After the information is entered, the taxpayer is added to the system.
 
-5. View All Taxpayers
+### 3. View All Taxpayers
 This screenshot shows the list of all taxpayers currently stored in the system. It allows the user to confirm that the taxpayer information was saved correctly.
 
-7. Add Tax Record
+### 4. Add Tax Record
 This screenshot shows the process of adding a tax record for a taxpayer. The user enters the taxpayer ID, tax year, annual income, and taxes paid.
 
-9. View Tax Records
+### 5. View Tax Records
 This screenshot shows the tax records that belong to a specific taxpayer. It helps the user check stored financial information for that person.
 
-11. Run Audit
+### 6. Run Audit
 This screenshot shows the audit feature of the program. The system checks the selected taxpayer’s tax record and calculates the expected tax amount based on the stored income.
 
-13. View Audit Logs
+### 7. View Audit Logs
 This screenshot shows the audit logs created by the program. It allows the user to review the details of completed audits.
 
-### Concepts Used
+## Concepts Used
 - Classes and objects
 - ArrayLists
 - Menu driven interaction
