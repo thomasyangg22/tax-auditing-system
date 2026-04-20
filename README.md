@@ -1,10 +1,32 @@
 # Tax Auditing Database System
 
-## Team Members
+## Project Title
+Tax Auditing Database System
+
+## Project Members
 - Thomas Yang
 - Kyan Tan
 
-Tax Auditing Database System
-
 ## Project Description
-For this project, I plan to build a Tax Auditing Database System using the concepts that we have learned in this class about Java. The system will be built using a few main classes, such as `Taxpayer`, `TaxRecord`, and `AuditLog`. Instead of creating an actual database, I will utilize ArrayLists to store the records of each taxpayer. Finally, the program will utilize a menu to allow the user to interact with and manage the taxpayer records within the program as well as perform audit checks on those taxpayers. The code will utilize concepts like `inheritance` to make the program as clean and easy to read as possible.
+This project is a Tax Auditing Database System built in Java. The purpose of the program is to help users manage taxpayer records and perform audit checks through a menu driven system.
+
+The system uses classes such as `Taxpayer`, `TaxRecord`, and `AuditLog` to organize the information. Instead of using a real database, the program stores the records using `ArrayList`s. The project also uses object oriented programming concepts to keep the program clean, organized, and easier to understand.
+
+## YouTube Video Link for Presentation
+Paste your YouTube presentation link here
+
+## UML Diagram
+![UML Diagram](docs/uml-tax-audit-system.svg)
+
+## User Guide
+
+### How to Run the Program
+1. Download the Java files from this GitHub repository.
+2. Open the files in a Java IDE such as IntelliJ IDEA, Eclipse, or VS Code.
+3. Run the `TaxAuditSystem.java` file.
+4. Follow the menu options shown in the console.
+
+### How to Compile and Run in Terminal
+```bash
+javac TaxAuditSystem.java Taxpayer.java TaxRecord.java AuditLog.java
+java TaxAuditSystem
