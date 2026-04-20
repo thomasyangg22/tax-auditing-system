@@ -16,7 +16,7 @@ The system uses classes such as `Taxpayer`, `TaxRecord`, and `AuditLog` to organ
 Paste your YouTube presentation link here
 
 ## UML Diagram
-![UML Diagram](docs/uml-tax-audit-system.svg)
+![UML Diagram](docs/uml.svg)
 
 ## User Guide
 
