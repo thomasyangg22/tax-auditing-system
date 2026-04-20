@@ -55,7 +55,7 @@ This screenshot shows the list of all taxpayers currently stored in the system. 
 This screenshot shows the process of adding a tax record for a taxpayer. The user enters the taxpayer ID, tax year, annual income, and taxes paid.
 
 ### 5. View Tax Records
-![View Tax Records](screenshots/screenshot5-view-tac-records.png)
+![View Tax Records](screenshots/screenshot5-view-tax-records.png)
 This screenshot shows the tax records that belong to a specific taxpayer. It helps the user check stored financial information for that person.
 
 ### 6. Run Audit
